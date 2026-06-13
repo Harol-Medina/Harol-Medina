@@ -142,8 +142,6 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 
 ---
 
-# 📊 GitHub Metrics
-
 <!-- Profile overview -->
 # 📊 GitHub Metrics
 
