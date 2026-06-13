@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
 <div>
-    <h1>Hi, I'm Ronin 👋</h1>
+    <h1>Hi, I'm Harol Medina 👋</h1>
     <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
@@ -145,23 +145,24 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 # 📊 GitHub Metrics
 
 <!-- Profile overview -->
+# 📊 GitHub Metrics
+
+<!-- Profile overview -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harol-Medina&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harol-Medina&theme=github_dark"
   />
 </p>
 
 <!-- Stats + Languages -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harol-Medina&theme=algolia"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harol-Medina&theme=github_dark"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harol-Medina&theme=github_dark"
   />
-    
 </p>
-
 
 <!-- Snake -->
 <p align="center">
