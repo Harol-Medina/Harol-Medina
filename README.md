@@ -147,17 +147,17 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 <!-- Profile overview -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harol-Medina&theme=tokyonight"
   />
 </p>
 
 <!-- Stats + Languages -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=algolia"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harol-Medina&theme=algolia"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronin22Mz&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harol-Medina&theme=github_dark"
   />
     
 </p>
@@ -166,7 +166,7 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 <!-- Snake -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
+    src="https://raw.githubusercontent.com/Harol-Medina/Harol-Medina/output/snake.svg"
     alt="Snake animation"
   />
 </p>
